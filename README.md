@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhishekT-2002
 - 👀 I’m interested in everything that can be done on/by computers
 - 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on/with anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me just pm me
 
 <!---
