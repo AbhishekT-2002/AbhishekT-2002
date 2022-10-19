@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekt-2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekt-2002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekt-2002" alt="abhishekt-2002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/4getabhi" target="blank"><img src="https://img.shields.io/twitter/follow/4getabhi?logo=twitter&style=for-the-badge" alt="4getabhi" /></a> </p>
-
 - 🔭 I’m currently working on **DSA & Web Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
