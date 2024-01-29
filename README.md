@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekt-2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekt-2002" /> </p>
 
-- 🔭 I’m currently working on **DSA & Web Development**
+- 🔭 I’m currently working on **Machine Learning, NLP and AI**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **software development**
+- 👯 I’m looking to collaborate on **AI/ML**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Data Science **
 
-- 📝 I regularly write articles on [almightycodes.blogspot.com](almightycodes.blogspot.com)
-
-- 💬 Ask me about **Machine Learning, Python Programming, C++, HTML5, CSS3**
+- 💬 Ask me about **Machine Learning, Python Programming, AI, NLP, LLMs C++,**
 
 - 📫 How to reach me **abhiabhishektiwari1106@gmail.com**
 
