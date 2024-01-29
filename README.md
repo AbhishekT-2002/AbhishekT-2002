@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
-<h3 align="center">Computer enthusiast from the streets of New Delhi</h3>
+<h3 align="center">ML enthusiast from New Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekt-2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekt-2002" /> </p>
 
