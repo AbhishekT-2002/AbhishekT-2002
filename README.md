@@ -9,11 +9,13 @@
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
-- 🤝 I’m looking for help with **Data Science **
+- 🤝 I’m looking for help with **Data Science**
 
 - 💬 Ask me about **Machine Learning, Python Programming, AI, NLP, LLMs C++,**
 
 - 📫 How to reach me **abhiabhishektiwari1106@gmail.com**
+
+  (I use arch btw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
